@@ -6,6 +6,7 @@ public class Calculadora {
 	private int num1;
 	private int num2;
 	
+	//Modificación eso es.
 	public Calculadora (int a, int b){
 		num1 = a;
 		num2 = b;
